@@ -1,20 +1,23 @@
 = RubyRegex
 
-Ruby regular expressions library
+RubyRegex is a nice collection of regular expressions in Ruby
 
-== Methods
+== Regular expressions
 
   RubyRegex::Url
   RubyRegex::Domain
   RubyRegex::Email
   RubyRegex::Username
-  RubyRegex::ZipCode
   RubyRegex::USSocialSecurity
   RubyRegex::GeneralPostalCode
   RubyRegex::ZIPCode
   RubyRegex::CreditCard
   RubyRegex::MasterCard
   RubyRegex::Visa
+  RubyRegex::TwitterUsername
+  RubyRegex::DeliciousUsername
+  RubyRegex::SlidesahreUsername
+  RubyRegex::GithubUsername
   
 == Rails
 
@@ -30,6 +33,11 @@ Ruby regular expressions library
 Of course, contributions will be apreciated.
 
 If you want to contribute send me a pull request with new regular expressions (and their tests) or send me an email  with your desired regular expression to emili@eparreno.com
+
+== Contributors
+
+- Lleïr Borràs
+- Jaime Iniesta
 
 ---
 
